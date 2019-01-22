@@ -2,7 +2,6 @@
 ## 1. 初始準備
 # 2.1 test git
 # test version updated
-
 %env KERAS_BACKEND=tensorflow
 %matplotlib inline
 import numpy as np
